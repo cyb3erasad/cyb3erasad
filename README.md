@@ -30,12 +30,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3erasad&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3erasad&show_icons=true&theme=tokyonight&cache_seconds=60" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3erasad&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3erasad&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3erasad&layout=compact&theme=tokyonight&cache_seconds=60" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -45,12 +45,8 @@
 <p align="center">
   <a href="https://github.com/cyb3erasad"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/cyb3r_asad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>  
+  <a href="https://instagram.com/cy
 
----
-
-⭐ *"Code. Learn. Improve. Repeat."* ⭐  
 
 
 
