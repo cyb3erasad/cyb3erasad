@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asad Nadeem  
 
-🚀 Programmer | 🐍 Python | ⚡ C | 🌐 HTML & CSS  
+🚀 Programmer | 🐍 Python | ⚡ C | 🌐 HTML & CSS  JS
 
 ---
 
