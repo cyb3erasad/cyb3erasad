@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: Building small projects in **Python** and **Web Development**
 - 🤝 I’m looking to collaborate on: Beginner-friendly open-source projects  
-- 🌱 I’m currently learning: **HTML, CSS, JavaScript** (after Python & C).  
+- 🌱 I’m currently learning: **HTML, CSS, JavaScript** (after Python & C) 
 - 💬 Ask me about: Python basics, C programming, and problem-solving  
 - ⚡ Fun fact: I love building simple console + GUI apps while learning  
 
