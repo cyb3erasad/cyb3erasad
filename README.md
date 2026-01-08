@@ -1,4 +1,4 @@
-# 💫 About Me:.
+# 💫 About Me:
 🔭 I’m currently working on: Building small to medium Web Development projects using Flask<br><br>🚀 Future goal: Transitioning to Django for scalable and production-ready applications<br><br>🤝 I’m looking to collaborate on: Beginner-friendly open-source Python / Web projects<br><br>🌱 I’m currently learning: Django,  JavaScript (after Flask)<br><br>💬 Ask me about: Python basics, Flask fundamentals, C programming, and problem-solving<br><br>⚡ Fun fact: I enjoy building console + web apps which can solve my problems
 
 
