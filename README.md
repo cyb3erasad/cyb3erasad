@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building medium to production-ready Web Development projects using **Flask** and **Django**  
+🔭 I’m currently working on: Building medium to production-ready Web Development projects using **Flask** and **Django**.  
 <br><br>  
 🚀 Future goal: Building full-stack applications, contributing to larger open-source web projects, and exploring modern frontend frameworks  
 <br><br>  
