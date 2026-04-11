@@ -7,7 +7,7 @@
 <br><br>  
 🌱 I’m currently learning: Advanced Django patterns, JavaScript frameworks (React/Next.js), and full-stack best practices  
 <br><br>  
-💬 Ask me about: Python, Flask, Django, JavaScript, C programming, web development, and problem-solving  
+💬 Ask me about: Python, Flask, Django, JavaScript, web development, and problem-solving  
 <br><br>  
 ⚡ Fun fact: I enjoy building web apps that solve real problems—especially the ones I face myself!
 
