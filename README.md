@@ -1,27 +1,47 @@
-# 💫 About Me
+# Hi, I'm Asad Nadeem
 
-🔭 **Currently working on:** Building medium to production-ready web applications with **Flask** and **Django**.
+**CS Student @ SMIU | Building Toward Junior SOC Analyst | Networking & Security Fundamentals**
 
-🛡️ **Career goal:** Transitioning into **Cyber Security**. Currently enrolled in Cisco's **Introduction to Cyber Security** and **Networking Basics** courses — building the foundations I need to work in security.
+Career goal — Becoming a **Junior SOC Analyst**, with a foundation built through networking, security fundamentals, and hands-on detection & response.
 
-🌱 **Currently learning:** Python scripting for automation · Cisco Networking & Cyber Security fundamentals 
+Currently working on — Completing my **CCNA** for strong networking fundamentals, with **CompTIA Security+** next on the roadmap.
 
-🤝 **Open to collaborate on:** Beginner-to-intermediate open-source **Python / Flask / Django** projects. Also interested in connecting with people in the Cyber Security space.
+Currently learning — TryHackMe's path (**Pre Security → SOC Level 1**) · Linux (daily practice) · Packet analysis with **Wireshark**
 
-💬 **Ask me about:** Python · Flask · Django · MySQL · Web application architecture · Getting started in Cyber Security
+Certifications completed — Google Cybersecurity Certificate: *Foundations of Cybersecurity* · Cisco: *Introduction to Cybersecurity*
 
-⚡ **Fun fact:** I build web apps to solve problems I actually face — and I document the whole journey publicly so others can learn from it too.
+Background — Python web developer (Flask & Django), having shipped full-stack, production-ready apps before shifting focus toward security. This gives me a practical, developer's-eye understanding of how applications can be attacked or defended.
 
----
+Open to collaborate on — Networking/security labs, TryHackMe walkthroughs, and Python/Flask/Django projects.
 
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-nadeem-72a85b3a5/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyb3rasad@gmail.com)
+Ask me about — Networking fundamentals · Linux · Wireshark · Python · Flask · Django · Getting started in Cybersecurity
 
 ---
 
-## 💻 Tech Stack
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-nadeem-72a85b3a5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyb3rasad@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
+
+---
+
+## Networking & Security Path
+
+![CCNA](https://img.shields.io/badge/CCNA-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA_Security+-Next-EE0000?style=for-the-badge&logo=comptia&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-Foundations_Completed-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Daily practice:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## Development Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -32,27 +52,17 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 🛡️ Cyber Security & Networking *(In Progress)*
-
-![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking Basics](https://img.shields.io/badge/Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Intro to CyberSecurity](https://img.shields.io/badge/Intro_to_CyberSecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Python Automation](https://img.shields.io/badge/Python_Automation-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=cyb3erasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=cyb3erasad&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3erasad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cyb3erasad&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
