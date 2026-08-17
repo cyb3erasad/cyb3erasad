@@ -1,4 +1,4 @@
-# Hi, I'm Asad Nadeem
+# Hi, I'm Asad Nadeem.
 
 **CS Student @ SMIU | Building Toward Junior SOC Analyst | Networking & Security Fundamentals**
 
