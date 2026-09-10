@@ -12,7 +12,7 @@ Certifications completed — Google Cybersecurity Certificate: *Foundations of C
 
 Background — Python web developer (Flask & Django), having shipped full-stack, production-ready apps before shifting focus toward security. This gives me a practical, developer's-eye understanding of how applications can be attacked or defended.
 
-Open to collaborate on — Networking/security labs, TryHackMe walkthroughs, and Python/Flask/Django projects.
+Open to collaborate on — Networking/security labs, TryHackMe walkthroughs, and Python/Flask/Django projects
 
 Ask me about — Networking fundamentals · Linux · Wireshark · Python · Flask · Django · Getting started in Cybersecurity
 
