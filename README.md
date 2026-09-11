@@ -2,19 +2,18 @@
 
 **Aspiring SOC Analyst · Networking & Security Learner · Python Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-nadeem-72a85b3a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-nadeem-cyber/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyb3rasad@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](#)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](#)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cyb3rasad)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/asad-nadeem.ffd488ec/edit/badges/credly)
 
 ---
 
 ## About
 
-Computer Science student at Sindh Madressatul Islam University, working toward a career as a **SOC Analyst**. I'm building my foundation in the open — networking, security fundamentals, and hands-on practice — and documenting the process daily rather than treating it as a private study log.
+Working toward a career as a SOC Analyst, building my foundation in the open — networking, security fundamentals, and hands-on practice — and documenting the process daily rather than treating it as a private study log.
 
 I come from a Python web development background (Flask/Django), which gives me a practical, developer's-eye understanding of how applications are built — and therefore how they can be attacked or defended. I practice Linux daily, use Wireshark for packet analysis, and I'm currently working through CCNA prep and the Google Cybersecurity Professional Certificate alongside TryHackMe's Cybersecurity 101 path.
-
 ---
 
 ## Highlights
