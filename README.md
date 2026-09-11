@@ -32,12 +32,10 @@ I come from a Python web development background (Flask/Django), which gives me a
 
 | Project | Description |
 |---|---|
-| **[CCNA Packet Tracer Labs](#)** | Structured CCNA lab work — VLANs, trunking, ROAS, routing, SSH/port security — documented as I go |
-| **[University Campus Network](#)** | Three-building hierarchical network design in Packet Tracer with VLANs, DHCP, DNS, RIPv2, and security hardening |
-| **[Network Recon Scanner](#)** | Python CLI tool for menu-driven network scanning, open-port filtering, and timestamped result logging |
-| **[Learning Management System](#)** | Full-stack Flask/Django LMS with authentication and a relational database, deployed on Vercel |
-| **[Online Book Store](#)** | Full-stack store with admin analytics and a review system |
-| **[Online Football Store](#)** | Full-stack store with product management and shopping cart |
+| **[CCNA Packet Tracer Labs](https://github.com/cyb3erasad/CCNA-Packet-Tracer-Labs)** | Structured CCNA lab work — VLANs, trunking, ROAS, routing, SSH/port security — documented as I go |
+| **[University Campus Network](https://github.com/cyb3erasad/Small-University-Network-Design-Cisco-PT)** | Three-building hierarchical network design in Packet Tracer with VLANs, DHCP, DNS, RIPv2, and security hardening |
+| **[Network Recon Scanner](https://github.com/cyb3erasad/Python-Scripts/tree/main/Simple-Nmap-Recon-Scanner)** | Python CLI tool for menu-driven network scanning, open-port filtering, and timestamped result logging |
+| **[Online Book Store](https://github.com/cyb3erasad/Flask-Book-Store)** | Full-stack store with admin analytics and a review system |
 
 *(Swap the `#` links for your actual repo URLs — e.g. `https://github.com/cyb3erasad/repo-name`.)*
 
