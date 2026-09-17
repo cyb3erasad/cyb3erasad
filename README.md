@@ -45,7 +45,7 @@ I come from a Python web development background (Flask/Django), which gives me a
 ## Certifications & Learning Path
 
 ![CCNA](https://img.shields.io/badge/CCNA-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-3_of_6_Courses-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-4_of_6_Courses-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity_101-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security_Complete-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
