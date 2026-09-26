@@ -34,7 +34,7 @@ I come from a Python web development background (Flask/Django), which gives me a
 
 | Project | Description |
 |---|---|
-| **[SOC Log Parser & Threat Intel Tool](#)** | Python tool that parses SSH auth logs via journalctl, flags brute-force login attempts by threshold, cross-checks attacker IPs against AbuseIPDB, and generates timestamped reports |
+| **[SOC Log Parser & Threat Intel Tool](https://github.com/cyb3erasad/SOC-Log-Parser---Threat-Intel-Tool)** | Python tool that parses SSH auth logs via journalctl, flags brute-force login attempts by threshold, cross-checks attacker IPs against AbuseIPDB, and generates timestamped reports |
 | **[CCNA Packet Tracer Labs](https://github.com/cyb3erasad/CCNA-Packet-Tracer-Labs)** | Structured CCNA lab work — VLANs, trunking, ROAS, routing, SSH/port security — documented as I go |
 | **[University Campus Network](https://github.com/cyb3erasad/Small-University-Network-Design-Cisco-PT)** | Three-building hierarchical network design in Packet Tracer with VLANs, DHCP, DNS, RIPv2, and security hardening |
 | **[Network Recon Scanner](https://github.com/cyb3erasad/Python-Scripts/tree/main/Simple-Nmap-Recon-Scanner)** | Python CLI tool for menu-driven network scanning, open-port filtering, and timestamped result logging |
