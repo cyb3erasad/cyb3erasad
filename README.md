@@ -26,7 +26,7 @@ I come from a Python web development background (Flask/Django), which gives me a
 - Designing and working through CCNA labs (VLANs, trunking, 802.1Q, Router-on-a-Stick, SVIs) via a structured, self-built curriculum — attempting each lab independently before checking solutions
 - Built a full three-building campus network in Cisco Packet Tracer (2 routers, 4 switches, 6 VLANs, DHCP, DNS, RIPv2, SSH and port security), documented end-to-end on GitHub
 - Built a SOC log parser & threat intel tool in Python — parses SSH auth logs, flags brute-force attempts by threshold, and cross-checks attacker IPs against AbuseIPDB
-- Building a Python CLI network scanner (menu-driven scan types, open-port filtering, timestamped result logging) as a hands-on security-tooling project
+- Building a Python CLI network scanner (menu-driven scan types, open-port filtering, timestamped result logging) as a hands-on security-tooling project.
 
 ---
 
