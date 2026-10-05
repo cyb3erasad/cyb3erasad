@@ -21,7 +21,7 @@ I come from a Python web development background (Flask/Django), which gives me a
 
 - Grew a public LinkedIn learning presence from 100 to 500+ connections in about two months through daily, documented progress posts
 - Completed TryHackMe's **Pre Security** and **Cybersecurity 101** paths
-- Completed 4 of 6 courses toward the **Google Cybersecurity Professional Certificate**, including *Play It Safe: Manage Security Risks* (security domains, Risk Management Framework, NIST CSF, OWASP principles, SIEM basics, incident response playbooks)
+- Completed 5 of 6 courses toward the **Google Cybersecurity Professional Certificate**, including *Play It Safe: Manage Security Risks* (security domains, Risk Management Framework, NIST CSF, OWASP principles, SIEM basics, incident response playbooks)
 - Completed Cisco's **Introduction to Cybersecurity**
 - Designing and working through CCNA labs (VLANs, trunking, 802.1Q, Router-on-a-Stick, SVIs) via a structured, self-built curriculum — attempting each lab independently before checking solutions
 - Built a full three-building campus network in Cisco Packet Tracer (2 routers, 4 switches, 6 VLANs, DHCP, DNS, RIPv2, SSH and port security), documented end-to-end on GitHub
