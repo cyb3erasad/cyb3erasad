@@ -13,18 +13,20 @@
 
 Working toward a career as a SOC Analyst, building my foundation in the open — networking, security fundamentals, and hands-on practice — and documenting the process daily rather than treating it as a private study log.
 
-I come from a Python web development background (Flask/Django), which gives me a practical, developer's-eye understanding of how applications are built — and therefore how they can be attacked or defended. I practice Linux daily, use Wireshark for packet analysis, and I'm currently working through CCNA prep and the Google Cybersecurity Professional Certificate, having completed TryHackMe's Pre Security and Cybersecurity 101 paths.
+I come from a Python web development background (Flask/Django), which gives me a practical, developer's-eye understanding of how applications are built — and therefore how they can be attacked or defended. I practice Linux daily, use Wireshark for packet analysis, and I've completed the Google Cybersecurity Professional Certificate and TryHackMe's Pre Security and Cybersecurity 101 paths. I'm now preparing for my CCNA while progressing through SOC Level 1, and I'm ranked in the top 3% worldwide on TryHackMe.
 
 ---
 
 ## Highlights
 
 - Grew a public LinkedIn learning presence from 100 to 500+ connections in about two months through daily, documented progress posts
-- Completed TryHackMe's **Pre Security** and **Cybersecurity 101** paths
-- Completed 7 of 9 courses toward the **Google Cybersecurity Professional Certificate**, including *Play It Safe: Manage Security Risks* (security domains, Risk Management Framework, NIST CSF, OWASP principles, SIEM basics, incident response playbooks)
+- Ranked in the **top 3% worldwide** on TryHackMe
+- Completed TryHackMe's **Pre Security** and **Cybersecurity 101** paths; currently progressing through **SOC Level 1**
+- Completed the **Google Cybersecurity Professional Certificate** (all 9 courses), covering security domains, Risk Management Framework, NIST CSF, OWASP principles, SIEM basics, and incident response playbooks
 - Completed Cisco's **Introduction to Cybersecurity**
 - Designing and working through CCNA labs (VLANs, trunking, 802.1Q, Router-on-a-Stick, SVIs) via a structured, self-built curriculum — attempting each lab independently before checking solutions
 - Built a full three-building campus network in Cisco Packet Tracer (2 routers, 4 switches, 6 VLANs, DHCP, DNS, RIPv2, SSH and port security), documented end-to-end on GitHub
+- Maintaining a repository of SOC L1 investigation reports covering phishing, Windows log, and SIEM investigations
 - Built a SOC log parser & threat intel tool in Python — parses SSH auth logs, flags brute-force attempts by threshold, and cross-checks attacker IPs against AbuseIPDB
 - Building a Python CLI network scanner (menu-driven scan types, open-port filtering, timestamped result logging) as a hands-on security-tooling project
 
@@ -34,21 +36,21 @@ I come from a Python web development background (Flask/Django), which gives me a
 
 | Project | Description |
 |---|---|
+| **[SOC L1 Investigation Reports](https://github.com/cyb3erasad/soc-L1-investigation-reports)** | Investigation reports written the way a SOC L1 analyst documents them — phishing, Windows log, and SIEM investigations |
 | **[SOC Log Parser & Threat Intel Tool](https://github.com/cyb3erasad/SOC-Log-Parser---Threat-Intel-Tool)** | Python tool that parses SSH auth logs via journalctl, flags brute-force login attempts by threshold, cross-checks attacker IPs against AbuseIPDB, and generates timestamped reports |
 | **[CCNA Packet Tracer Labs](https://github.com/cyb3erasad/CCNA-Packet-Tracer-Labs)** | Structured CCNA lab work — VLANs, trunking, ROAS, routing, SSH/port security — documented as I go |
 | **[University Campus Network](https://github.com/cyb3erasad/Small-University-Network-Design-Cisco-PT)** | Three-building hierarchical network design in Packet Tracer with VLANs, DHCP, DNS, RIPv2, and security hardening |
 | **[Network Recon Scanner](https://github.com/cyb3erasad/Python-Scripts/tree/main/Simple-Nmap-Recon-Scanner)** | Python CLI tool for menu-driven network scanning, open-port filtering, and timestamped result logging |
-| **[Online Book Store](https://github.com/cyb3erasad/Flask-Book-Store)** | Full-stack store with admin analytics and a review system |
-
-*(Swap the `#` link for your actual SOC Log Parser repo URL once it's pushed.)*
 
 ---
 
 ## Certifications & Learning Path
 
 ![CCNA](https://img.shields.io/badge/CCNA-In_Progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-4_of_6_Courses-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-Completed-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cisco Intro to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25_Worldwide-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC_Level_1_In_Progress-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity_101_Complete-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre_Security_Complete-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
