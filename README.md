@@ -19,7 +19,6 @@ I come from a Python web development background (Flask/Django), which gives me a
 
 ## Highlights
 
-- Grew a public LinkedIn learning presence from 100 to 500+ connections in about two months through daily, documented progress posts
 - Ranked in the **top 3% worldwide** on TryHackMe
 - Completed TryHackMe's **Pre Security** and **Cybersecurity 101** paths; currently progressing through **SOC Level 1**
 - Completed the **Google Cybersecurity Professional Certificate** (all 9 courses), covering security domains, Risk Management Framework, NIST CSF, OWASP principles, SIEM basics, and incident response playbooks
