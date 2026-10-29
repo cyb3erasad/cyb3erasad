@@ -13,7 +13,7 @@
 
 Working toward a career as a SOC Analyst, building my foundation in the open — networking, security fundamentals, and hands-on practice — and documenting the process daily rather than treating it as a private study log.
 
-I come from a Python web development background (Flask/Django), which gives me a practical, developer's-eye understanding of how applications are built — and therefore how they can be attacked or defended. I practice Linux daily, use Wireshark for packet analysis, and I've completed the Google Cybersecurity Professional Certificate and TryHackMe's Pre Security and Cybersecurity 101 paths. I'm now preparing for my CCNA while progressing through SOC Level 1, and I'm ranked in the top 3% worldwide on TryHackMe.
+I come from a Python web development background (Flask/Django), which gives me a practical, developer's-eye understanding of how applications are built — and therefore how they can be attacked or defended. I practice Linux daily, use Wireshark for packet analysis, and I've completed the Google Cybersecurity Professional Certificate and TryHackMe's Pre Security and Cybersecurity 101 paths. I'm now preparing for my CCNA while progressing through SOC Level 1, and I'm ranked in the top 3% worldwide on TryHackMe
 
 ---
 
